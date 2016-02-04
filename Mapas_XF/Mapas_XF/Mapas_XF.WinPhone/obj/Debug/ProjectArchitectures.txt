@@ -1,0 +1,2 @@
+C:\Users\enri-\Documents\Visual Studio 2015\Projects\Mapas_XF\Mapas_XF\Mapas_XF.WinPhone\Mapas_XF.WinPhone.csproj;neutral
+C:\Users\enri-\Documents\Visual Studio 2015\Projects\Mapas_XF\Mapas_XF\Mapas_XF\Mapas_XF.csproj;neutral
